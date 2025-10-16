@@ -20,7 +20,7 @@
   </header>
 
   <main class="container">
-    <div id="grid" class="grid" aria-live="polite" aria-busy="true">
+    <div id="grid" class="list" aria-live="polite" aria-busy="true">
       <!-- Cards inserted by app.js -->
     </div>
   </main>
@@ -28,14 +28,6 @@
   <footer class="container footer">
     <p>Previews generated locally; one image per base family. No font files are hosted.</p>
   </footer>
-
-  <!-- Lightbox modal for larger preview -->
-  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-labelledby="lb-title">
-    <button id="lb-close" class="lb-close" aria-label="Close preview">✕</button>
-    <img id="lb-img" class="lb-img" alt="Font preview"/>
-    <div id="lb-title" class="lb-title"></div>
-    <div id="lb-meta" class="lb-meta"></div>
-  </div>
 
   <script src="app.js"></script>
 </body>
