@@ -1,0 +1,1742 @@
+[
+  {
+    "family": "01",
+    "file": "01.ttf",
+    "style": "Book",
+    "slug": "01"
+  },
+  {
+    "family": "1st Sortie",
+    "file": "1StSortie-4nVY.ttf",
+    "style": "Regular",
+    "slug": "1st-sortie"
+  },
+  {
+    "family": "Absolut Script",
+    "file": "Absolut Script.otf",
+    "style": "Regular",
+    "slug": "absolut-script"
+  },
+  {
+    "family": "Agatho",
+    "file": "Agatho_ Narrow.otf",
+    "style": "Narrow",
+    "slug": "agatho"
+  },
+  {
+    "family": "AmazDooMLeft",
+    "file": "Amazdoomleft-epw3.ttf",
+    "style": "Regular",
+    "slug": "amazdoomleft"
+  },
+  {
+    "family": "AmazS.T.A.L.K.E.R.v.3.0",
+    "file": "Amazstalkerv30-qB7V.ttf",
+    "style": "Regular",
+    "slug": "amazstalkerv30"
+  },
+  {
+    "family": "annone",
+    "file": "Annone-rxOB.ttf",
+    "style": "Regular",
+    "slug": "annone"
+  },
+  {
+    "family": "Arch Sans",
+    "file": "Arch Sans.otf",
+    "style": "Regular",
+    "slug": "arch-sans"
+  },
+  {
+    "family": "Aria\u0000",
+    "file": "EarthwormJim-gxO4.ttf",
+    "style": "dAria\u0000N",
+    "slug": "aria"
+  },
+  {
+    "family": "Arial",
+    "file": "arial.ttf",
+    "style": "Regular",
+    "slug": "arial"
+  },
+  {
+    "family": "Arkanoid",
+    "file": "Arkanoid-xRWV.ttf",
+    "style": "Regular",
+    "slug": "arkanoid"
+  },
+  {
+    "family": "Arkanoid Solid",
+    "file": "ArkanoidSolid-pgPv.ttf",
+    "style": "Regular",
+    "slug": "arkanoid-solid"
+  },
+  {
+    "family": "Arla InterFace Condensed",
+    "file": "Arla InterFace Condensed Bold.otf",
+    "style": "Bold",
+    "slug": "arla-interface-condensed"
+  },
+  {
+    "family": "Arla InterFace W",
+    "file": "Arla InterFace W.otf",
+    "style": "Book",
+    "slug": "arla-interface-w"
+  },
+  {
+    "family": "ARLA STRONG",
+    "file": "ARLA STRONG.otf",
+    "style": "Regular",
+    "slug": "arla-strong"
+  },
+  {
+    "family": "Assassin$",
+    "file": "Assassin-2PGw.ttf",
+    "style": "Regular",
+    "slug": "assassin"
+  },
+  {
+    "family": "Atari Classic Chunky",
+    "file": "AtariClassicChunky-PxXP.ttf",
+    "style": "Regular",
+    "slug": "atari-classic-chunky"
+  },
+  {
+    "family": "Atari Classic Smooth",
+    "file": "AtariClassicSmooth-XzW2.ttf",
+    "style": "Regular",
+    "slug": "atari-classic-smooth"
+  },
+  {
+    "family": "Atari Kids",
+    "file": "AtariKids-r3dK.ttf",
+    "style": "Regular",
+    "slug": "atari-kids"
+  },
+  {
+    "family": "AvQest",
+    "file": "Avqest-eeel.ttf",
+    "style": "Regular",
+    "slug": "avqest"
+  },
+  {
+    "family": "AxionRX14W01-Regular",
+    "file": "Axion RX 14 W01 Regular.ttf",
+    "style": "Regular",
+    "slug": "axionrx14w01-regular"
+  },
+  {
+    "family": "Bahnschrift",
+    "file": "bahnschrift.ttf",
+    "style": "Regular",
+    "slug": "bahnschrift"
+  },
+  {
+    "family": "Baileys Drizzle Web",
+    "file": "Baileys Drizzle Web.otf",
+    "style": "Regular",
+    "slug": "baileys-drizzle-web"
+  },
+  {
+    "family": "Barlow",
+    "file": "Barlow-Regular.otf",
+    "style": "Regular",
+    "slug": "barlow"
+  },
+  {
+    "family": "Birds Eye Tarzana Wide",
+    "file": "Birds Eye Tarzana Wide Bold Italic.otf",
+    "style": "Bold Italic",
+    "slug": "birds-eye-tarzana-wide"
+  },
+  {
+    "family": "BirdsEye Tarzana",
+    "file": "BirdsEye Tarzana Wide.otf",
+    "style": "Wide",
+    "slug": "birdseye-tarzana"
+  },
+  {
+    "family": "Bordersprite",
+    "file": "Bordersprite-DYxx.ttf",
+    "style": "Regular",
+    "slug": "bordersprite"
+  },
+  {
+    "family": "Brand Anne Shade Pro",
+    "file": "Brand Anne Shade Pro.otf",
+    "style": "Book",
+    "slug": "brand-anne-shade-pro"
+  },
+  {
+    "family": "BrawlStarsDeputy",
+    "file": "Brawl Stars Deputy.otf",
+    "style": "Regular",
+    "slug": "brawlstarsdeputy"
+  },
+  {
+    "family": "Brooks Bros: Douglas",
+    "file": "Douglas.otf",
+    "style": "Regular",
+    "slug": "brooks-bros-douglas"
+  },
+  {
+    "family": "Brooks Bros: James",
+    "file": "James.otf",
+    "style": "Regular",
+    "slug": "brooks-bros-james"
+  },
+  {
+    "family": "Brooks Bros: Matthew",
+    "file": "Matthew.otf",
+    "style": "Script",
+    "slug": "brooks-bros-matthew"
+  },
+  {
+    "family": "Buoyage",
+    "file": "Buoyage.otf",
+    "style": "Regular",
+    "slug": "buoyage"
+  },
+  {
+    "family": "Calibri",
+    "file": "calibri.ttf",
+    "style": "Regular",
+    "slug": "calibri"
+  },
+  {
+    "family": "Cambria",
+    "file": "cambriab.ttf",
+    "style": "Bold",
+    "slug": "cambria"
+  },
+  {
+    "family": "Candara",
+    "file": "Candara.ttf",
+    "style": "Regular",
+    "slug": "candara"
+  },
+  {
+    "family": "Carlsberg",
+    "file": "Carlsberg Slab.otf",
+    "style": "Regular",
+    "slug": "carlsberg"
+  },
+  {
+    "family": "CGF Locust Resistance",
+    "file": "CgfLocustResistance-1Goj4.ttf",
+    "style": "Regular",
+    "slug": "cgf-locust-resistance"
+  },
+  {
+    "family": "Chailce-Noggin",
+    "file": "ChailceNogginRegular-2OXoW.ttf",
+    "style": "Noggin-Regular",
+    "slug": "chailce-noggin"
+  },
+  {
+    "family": "Chlorinap",
+    "file": "Chlorinap-eZ9x.ttf",
+    "style": "Regular",
+    "slug": "chlorinap"
+  },
+  {
+    "family": "CI GameDev",
+    "file": "CiGamedevRegular-ovq3z.ttf",
+    "style": "Regular",
+    "slug": "ci-gamedev"
+  },
+  {
+    "family": "Clash",
+    "file": "Clash.otf",
+    "style": "Book",
+    "slug": "clash"
+  },
+  {
+    "family": "Clash Text",
+    "file": "Clash Text.ttf",
+    "style": "Regular",
+    "slug": "clash-text"
+  },
+  {
+    "family": "Clash Title",
+    "file": "Clash Title.ttf",
+    "style": "Regular",
+    "slug": "clash-title"
+  },
+  {
+    "family": "CoffeeService",
+    "file": "Coffee Service Dunkin.otf",
+    "style": "",
+    "slug": "coffeeservice"
+  },
+  {
+    "family": "Comic Sans MS",
+    "file": "comic.ttf",
+    "style": "Regular",
+    "slug": "comic-sans-ms"
+  },
+  {
+    "family": "Consolas",
+    "file": "consola.ttf",
+    "style": "Regular",
+    "slug": "consolas"
+  },
+  {
+    "family": "Constantia",
+    "file": "constan.ttf",
+    "style": "Regular",
+    "slug": "constantia"
+  },
+  {
+    "family": "Continuum Bold",
+    "file": "contb.ttf",
+    "style": "Regular",
+    "slug": "continuum-bold"
+  },
+  {
+    "family": "Corbel",
+    "file": "corbel.ttf",
+    "style": "Regular",
+    "slug": "corbel"
+  },
+  {
+    "family": "Corona Headline",
+    "file": "Corona Headline Semibold.otf",
+    "style": "SemiBold",
+    "slug": "corona-headline"
+  },
+  {
+    "family": "Corporatus",
+    "file": "2718-font.otf",
+    "style": "Regular",
+    "slug": "corporatus"
+  },
+  {
+    "family": "Courier New",
+    "file": "cour.ttf",
+    "style": "Regular",
+    "slug": "courier-new"
+  },
+  {
+    "family": "Cowboy Pixel",
+    "file": "CowboyPixel-4ndpY.otf",
+    "style": "Regular",
+    "slug": "cowboy-pixel"
+  },
+  {
+    "family": "Crygords",
+    "file": "Crygords-1jEq4.otf",
+    "style": "Regular",
+    "slug": "crygords"
+  },
+  {
+    "family": "Dairy Milk Font",
+    "file": "Dairy Milk Font Medium.otf",
+    "style": "Medium",
+    "slug": "dairy-milk-font"
+  },
+  {
+    "family": "Day Of The Tentacle",
+    "file": "DayOfTheTentacle-vnBL.ttf",
+    "style": "Regular",
+    "slug": "day-of-the-tentacle"
+  },
+  {
+    "family": "DEBUG FREE TRIAL",
+    "file": "DebugFreeTrial-MVdYB.otf",
+    "style": "Regular",
+    "slug": "debug-free-trial"
+  },
+  {
+    "family": "Despairs",
+    "file": "Despairs-X3Wxo.ttf",
+    "style": "Regular",
+    "slug": "despairs"
+  },
+  {
+    "family": "Diabolica",
+    "file": "Diabolica-VRBB.ttf",
+    "style": "Medium",
+    "slug": "diabolica"
+  },
+  {
+    "family": "Diary of an 8-bit mage",
+    "file": "DiaryOfAn8BitMage-lYDD.ttf",
+    "style": "Regular",
+    "slug": "diary-of-an-8-bit-mage"
+  },
+  {
+    "family": "DIN",
+    "file": "Steam Font.ttf",
+    "style": "Regular",
+    "slug": "din"
+  },
+  {
+    "family": "Dine",
+    "file": "Dine.otf",
+    "style": "Book",
+    "slug": "dine"
+  },
+  {
+    "family": "Display Dots Four Serif",
+    "file": "Display Dots Four Serif W90 Rg.otf",
+    "style": "Regular",
+    "slug": "display-dots-four-serif"
+  },
+  {
+    "family": "Dodo Rounded",
+    "file": "Dodo Rounded Bold.otf",
+    "style": "Bold",
+    "slug": "dodo-rounded"
+  },
+  {
+    "family": "Dodo Rounded ExtraLight",
+    "file": "Dodo Rounded ExtraLight.otf",
+    "style": "ExtraLight",
+    "slug": "dodo-rounded-extralight"
+  },
+  {
+    "family": "Doom 2016 Text",
+    "file": "Doom2016Text-GOlBq.ttf",
+    "style": "Regular",
+    "slug": "doom-2016-text"
+  },
+  {
+    "family": "Dunkin Sans",
+    "file": "Dunkin Sans Book.otf",
+    "style": "Book",
+    "slug": "dunkin-sans"
+  },
+  {
+    "family": "Dunkin Serif",
+    "file": "Dunkin Serif Bold.otf",
+    "style": "Bold",
+    "slug": "dunkin-serif"
+  },
+  {
+    "family": "Dynamic Recompilation",
+    "file": "DynamicRecompilation-j92O.ttf",
+    "style": "Regular",
+    "slug": "dynamic-recompilation"
+  },
+  {
+    "family": "Earls Revenge",
+    "file": "EarlsRevenge-69Kg.ttf",
+    "style": "Medium",
+    "slug": "earls-revenge"
+  },
+  {
+    "family": "Ebrima",
+    "file": "ebrima.ttf",
+    "style": "Regular",
+    "slug": "ebrima"
+  },
+  {
+    "family": "Eddie - DGL",
+    "file": "Eddie-L8Mg.ttf",
+    "style": "Regular",
+    "slug": "eddie---dgl"
+  },
+  {
+    "family": "EightBit Atari",
+    "file": "EightBit Atari-Serif8.ttf",
+    "style": "Serif8",
+    "slug": "eightbit-atari"
+  },
+  {
+    "family": "ElfBoyClassic",
+    "file": "Elfboyclassic-PKZgZ.ttf",
+    "style": "Medium",
+    "slug": "elfboyclassic"
+  },
+  {
+    "family": "Emotion Engine",
+    "file": "EmotionEngine-8ynA.ttf",
+    "style": "Regular",
+    "slug": "emotion-engine"
+  },
+  {
+    "family": "Enotria",
+    "file": "enotria-extrabold.ttf",
+    "style": "Extrabold",
+    "slug": "enotria"
+  },
+  {
+    "family": "eternal",
+    "file": "Eternal-8Md1g.otf",
+    "style": "Regular",
+    "slug": "eternal"
+  },
+  {
+    "family": "Eternal Ancient",
+    "file": "EternalAncient-ZVjEB.ttf",
+    "style": "Regular",
+    "slug": "eternal-ancient"
+  },
+  {
+    "family": "Eternal Battle",
+    "file": "EternalBattleBold-rgP3y.ttf",
+    "style": "Bold",
+    "slug": "eternal-battle"
+  },
+  {
+    "family": "Eternal Logo",
+    "file": "EternalLogo-w1572.ttf",
+    "style": "Regular",
+    "slug": "eternal-logo"
+  },
+  {
+    "family": "Eternal UI",
+    "file": "EternalUiRegular-DOjL9.ttf",
+    "style": "Regular",
+    "slug": "eternal-ui"
+  },
+  {
+    "family": "Eternal UI 2",
+    "file": "EternalUi2Regular-1Gvn2.ttf",
+    "style": "Regular",
+    "slug": "eternal-ui-2"
+  },
+  {
+    "family": "EurostileSC",
+    "file": "EurostileSC-Bol.ttf",
+    "style": "Bold",
+    "slug": "eurostilesc"
+  },
+  {
+    "family": "F-Zero GP Legend Font",
+    "file": "FZeroGpLegendFontRegular-ZOJx.ttf",
+    "style": "Regular",
+    "slug": "f-zero-gp-legend-font"
+  },
+  {
+    "family": "Fairlight",
+    "file": "Fairlight-5yVZ.ttf",
+    "style": "Regular",
+    "slug": "fairlight"
+  },
+  {
+    "family": "Fairune UI CHMC",
+    "file": "FairuneUiChmc-5d2G.ttf",
+    "style": "Regular",
+    "slug": "fairune-ui-chmc"
+  },
+  {
+    "family": "Fatboy Slim BLTC 2 BRK",
+    "file": "fbsbltc2.ttf",
+    "style": "Regular",
+    "slug": "fatboy-slim-bltc-2-brk"
+  },
+  {
+    "family": "FederbrauSans",
+    "file": "Federbrau Sans.otf",
+    "style": "Regular",
+    "slug": "federbrausans"
+  },
+  {
+    "family": "Ferrero",
+    "file": "Ferrero Tondo Gentile.otf",
+    "style": "Tondo Gentile",
+    "slug": "ferrero"
+  },
+  {
+    "family": "Ferrum",
+    "file": "Ferrum-wy99.otf",
+    "style": "Extra-condensed",
+    "slug": "ferrum"
+  },
+  {
+    "family": "Figtoen",
+    "file": "Figtoen-BL5nl.otf",
+    "style": "Regular",
+    "slug": "figtoen"
+  },
+  {
+    "family": "font21",
+    "file": "Baileys Drizzle.otf",
+    "style": "font21",
+    "slug": "font21"
+  },
+  {
+    "family": "FOT-NewRodin Pro",
+    "file": "FOT-NewRodin Pro DB.otf",
+    "style": "DB",
+    "slug": "fot-newrodin-pro"
+  },
+  {
+    "family": "FOT-Rodin Pro",
+    "file": "FOT-Rodin Pro DB.otf",
+    "style": "DB",
+    "slug": "fot-rodin-pro"
+  },
+  {
+    "family": "Franklin Gothic Medium",
+    "file": "framd.ttf",
+    "style": "Regular",
+    "slug": "franklin-gothic-medium"
+  },
+  {
+    "family": "Futura",
+    "file": "Futura-BoldOblique.otf",
+    "style": "Bold Oblique",
+    "slug": "futura"
+  },
+  {
+    "family": "G-OTF Shin Go Pro",
+    "file": "G-OTF-GShinGoPro-Regular.otf",
+    "style": "R",
+    "slug": "g-otf-shin-go-pro"
+  },
+  {
+    "family": "G7 Makaimura TTF",
+    "file": "G7MakaimuraTtf-xoZm.ttf",
+    "style": "Regular",
+    "slug": "g7-makaimura-ttf"
+  },
+  {
+    "family": "Gabriola",
+    "file": "Gabriola.ttf",
+    "style": "Regular",
+    "slug": "gabriola"
+  },
+  {
+    "family": "Gadugi",
+    "file": "gadugi.ttf",
+    "style": "Regular",
+    "slug": "gadugi"
+  },
+  {
+    "family": "Game Battles",
+    "file": "GameBattlesRegular-RjXo.ttf",
+    "style": "Regular",
+    "slug": "game-battles"
+  },
+  {
+    "family": "GAMECUBEN",
+    "file": "GamecubenDualset-L85D.ttf",
+    "style": "DualSet",
+    "slug": "gamecuben"
+  },
+  {
+    "family": "Gang of Three",
+    "file": "GangOfThree-nRL8M.ttf",
+    "style": "Regular",
+    "slug": "gang-of-three"
+  },
+  {
+    "family": "Georgia",
+    "file": "georgia.ttf",
+    "style": "Regular",
+    "slug": "georgia"
+  },
+  {
+    "family": "GGS Alpha",
+    "file": "GGS Alpha.ttf",
+    "style": "Regular",
+    "slug": "ggs-alpha"
+  },
+  {
+    "family": "GGS Infernalz",
+    "file": "GGS Infernalz Bold.otf",
+    "style": "Bold",
+    "slug": "ggs-infernalz"
+  },
+  {
+    "family": "GGS Pumo",
+    "file": "GGS Pumo Book.otf",
+    "style": "Book",
+    "slug": "ggs-pumo"
+  },
+  {
+    "family": "GGS Pumo Extrabold",
+    "file": "GGS Pumo Extrabold.otf",
+    "style": "Extrabold",
+    "slug": "ggs-pumo-extrabold"
+  },
+  {
+    "family": "GGS Pumo Semibold",
+    "file": "GGS Pumo Semibold.otf",
+    "style": "Semibold",
+    "slug": "ggs-pumo-semibold"
+  },
+  {
+    "family": "GGS Riftilium",
+    "file": "GGS Riftilium Bold.otf",
+    "style": "Bold",
+    "slug": "ggs-riftilium"
+  },
+  {
+    "family": "GGS Riftworld",
+    "file": "GGS Riftworld Bold.otf",
+    "style": "Bold",
+    "slug": "ggs-riftworld"
+  },
+  {
+    "family": "GGSWarland Mobil",
+    "file": "GGS Warland Mobil Bold.otf",
+    "style": "Bold",
+    "slug": "ggswarland-mobil"
+  },
+  {
+    "family": "Giesinger",
+    "file": "Giesinger.otf",
+    "style": "Regular",
+    "slug": "giesinger"
+  },
+  {
+    "family": "Goldeye Type",
+    "file": "Goldeye Type.otf",
+    "style": "Goldeye Type",
+    "slug": "goldeye-type"
+  },
+  {
+    "family": "GothicByte",
+    "file": "Gothicbyte-WpeRG.ttf",
+    "style": "Medium",
+    "slug": "gothicbyte"
+  },
+  {
+    "family": "Grey Goose",
+    "file": "Grey Goose Extrabold.otf",
+    "style": "Extrabold",
+    "slug": "grey-goose"
+  },
+  {
+    "family": "Grey Goose Text",
+    "file": "Grey Goose Text.otf",
+    "style": "Regular",
+    "slug": "grey-goose-text"
+  },
+  {
+    "family": "Hagin Caps Medium",
+    "file": "Hagin Caps Medium.otf",
+    "style": "Regular",
+    "slug": "hagin-caps-medium"
+  },
+  {
+    "family": "Hassengard",
+    "file": "HassengardRegular-pgoDD.otf",
+    "style": "Regular",
+    "slug": "hassengard"
+  },
+  {
+    "family": "HC Banhart Bold",
+    "file": "HC Banhart Bold.otf",
+    "style": "Bold",
+    "slug": "hc-banhart-bold"
+  },
+  {
+    "family": "Headliner No. 45",
+    "file": "HeadlinerNo45-59y8.ttf",
+    "style": "Regular",
+    "slug": "headliner-no-45"
+  },
+  {
+    "family": "HEINEKEN Core",
+    "file": "HEINEKEN Core ExtraBold.otf",
+    "style": "ExtraBold",
+    "slug": "heineken-core"
+  },
+  {
+    "family": "HEINEKEN Curve",
+    "file": "HEINEKEN Curve Semibold.otf",
+    "style": "SemiBold",
+    "slug": "heineken-curve"
+  },
+  {
+    "family": "Hercules Pixel Font",
+    "file": "HerculesPixelFontRegular-ovAX0.otf",
+    "style": "Regular",
+    "slug": "hercules-pixel-font"
+  },
+  {
+    "family": "HikariByte",
+    "file": "Hikaribyte-aYO7m.ttf",
+    "style": "Medium",
+    "slug": "hikaribyte"
+  },
+  {
+    "family": "Impact",
+    "file": "impact.ttf",
+    "style": "Regular",
+    "slug": "impact"
+  },
+  {
+    "family": "Ink Free",
+    "file": "Inkfree.ttf",
+    "style": "Regular",
+    "slug": "ink-free"
+  },
+  {
+    "family": "Inter",
+    "file": "Inter-Regular-slnt=0.ttf",
+    "style": "Regular",
+    "slug": "inter"
+  },
+  {
+    "family": "ipagp_light",
+    "file": "ipagp_light.ttf",
+    "style": "Regular",
+    "slug": "ipagp-light"
+  },
+  {
+    "family": "Janitor\u0000",
+    "file": "Janitor.ttf",
+    "style": "Regular\u0000",
+    "slug": "janitor"
+  },
+  {
+    "family": "Javanese Text",
+    "file": "javatext.ttf",
+    "style": "Regular",
+    "slug": "javanese-text"
+  },
+  {
+    "family": "Joystix",
+    "file": "joystix monospace.otf",
+    "style": "Monospace",
+    "slug": "joystix"
+  },
+  {
+    "family": "Kellogg's Sans",
+    "file": "Kelloggs Sans.otf",
+    "style": "Regular",
+    "slug": "kelloggs-sans"
+  },
+  {
+    "family": "King Gaming Free Trial",
+    "file": "KingGamingFreeTrial-owdrz.ttf",
+    "style": "Regular",
+    "slug": "king-gaming-free-trial"
+  },
+  {
+    "family": "Kirby No Kira Kizzu BRK",
+    "file": "KirbyNoKiraKizzuBrk-z1wG.ttf",
+    "style": "Regular",
+    "slug": "kirby-no-kira-kizzu-brk"
+  },
+  {
+    "family": "Klavika NX",
+    "file": "Klavika NX.ttf",
+    "style": "Regular",
+    "slug": "klavika-nx"
+  },
+  {
+    "family": "Kwajong",
+    "file": "Kwajong-4nL2W.ttf",
+    "style": "Regular",
+    "slug": "kwajong"
+  },
+  {
+    "family": "LCD",
+    "file": "LCD.ttf",
+    "style": "Regular",
+    "slug": "lcd"
+  },
+  {
+    "family": "Leelawadee UI",
+    "file": "LeelawUI.ttf",
+    "style": "Regular",
+    "slug": "leelawadee-ui"
+  },
+  {
+    "family": "Legion Slab",
+    "file": "Legion Slab.otf",
+    "style": "Regular",
+    "slug": "legion-slab"
+  },
+  {
+    "family": "Leviathans",
+    "file": "Leviathans-rvmE7.otf",
+    "style": "Regular",
+    "slug": "leviathans"
+  },
+  {
+    "family": "Liquid Kidz",
+    "file": "LiquidKidz-8ODM.ttf",
+    "style": "Regular",
+    "slug": "liquid-kidz"
+  },
+  {
+    "family": "Liquid Kidz spazeout",
+    "file": "LiquidKidzSpazeout-Yq9q.ttf",
+    "style": "Regular",
+    "slug": "liquid-kidz-spazeout"
+  },
+  {
+    "family": "LocalBreweryFour-Regular",
+    "file": "Local Brewery Four.otf",
+    "style": "",
+    "slug": "localbreweryfour-regular"
+  },
+  {
+    "family": "Lovin Sans",
+    "file": "Lovin Sans.otf",
+    "style": "Regular",
+    "slug": "lovin-sans"
+  },
+  {
+    "family": "Lovin Sans Light",
+    "file": "Lovin Sans Light.otf",
+    "style": "Regular",
+    "slug": "lovin-sans-light"
+  },
+  {
+    "family": "Lucida Console",
+    "file": "lucon.ttf",
+    "style": "Regular",
+    "slug": "lucida-console"
+  },
+  {
+    "family": "Lucida Sans Unicode",
+    "file": "l_10646.ttf",
+    "style": "Regular",
+    "slug": "lucida-sans-unicode"
+  },
+  {
+    "family": "Lurpak Sans",
+    "file": "Lurpak Sans.otf",
+    "style": "Regular",
+    "slug": "lurpak-sans"
+  },
+  {
+    "family": "M41_LOVEBIT",
+    "file": "m41.TTF",
+    "style": "Regular",
+    "slug": "m41-lovebit"
+  },
+  {
+    "family": "MADE Outer Sans",
+    "file": "MADE Outer Sans Regular PERSONAL USE.otf",
+    "style": "Regular",
+    "slug": "made-outer-sans"
+  },
+  {
+    "family": "Malgun Gothic",
+    "file": "malgun.ttf",
+    "style": "Regular",
+    "slug": "malgun-gothic"
+  },
+  {
+    "family": "Mars Centra",
+    "file": "Mars Centra Book.otf",
+    "style": "Book",
+    "slug": "mars-centra"
+  },
+  {
+    "family": "Matrix",
+    "file": "Matrix-PV9Gd.otf",
+    "style": "Regular",
+    "slug": "matrix"
+  },
+  {
+    "family": "MC360",
+    "file": "MC360.ttf",
+    "style": "XBMC UI",
+    "slug": "mc360"
+  },
+  {
+    "family": "McCain Sunshine",
+    "file": "McCain Sunshine.otf",
+    "style": "Book",
+    "slug": "mccain-sunshine"
+  },
+  {
+    "family": "Mega Man ZX",
+    "file": "Mega-Man-ZX.ttf",
+    "style": "Regular",
+    "slug": "mega-man-zx"
+  },
+  {
+    "family": "Megamax Jonathan Too",
+    "file": "MegamaxJonathanToo-YqOq2.ttf",
+    "style": "Regular",
+    "slug": "megamax-jonathan-too"
+  },
+  {
+    "family": "Megamax Jones",
+    "file": "MegamaxJones-elRm.ttf",
+    "style": "Regular",
+    "slug": "megamax-jones"
+  },
+  {
+    "family": "Messe Duesseldorf",
+    "file": "MesseDuesseldorf-O1d3.ttf",
+    "style": "Regular",
+    "slug": "messe-duesseldorf"
+  },
+  {
+    "family": "Microsoft Himalaya",
+    "file": "himalaya.ttf",
+    "style": "Regular",
+    "slug": "microsoft-himalaya"
+  },
+  {
+    "family": "Microsoft New Tai Lue",
+    "file": "ntailu.ttf",
+    "style": "Regular",
+    "slug": "microsoft-new-tai-lue"
+  },
+  {
+    "family": "Microsoft PhagsPa",
+    "file": "phagspa.ttf",
+    "style": "Regular",
+    "slug": "microsoft-phagspa"
+  },
+  {
+    "family": "Microsoft Sans Serif",
+    "file": "micross.ttf",
+    "style": "Regular",
+    "slug": "microsoft-sans-serif"
+  },
+  {
+    "family": "Microsoft Tai Le",
+    "file": "taile.ttf",
+    "style": "Regular",
+    "slug": "microsoft-tai-le"
+  },
+  {
+    "family": "Microsoft Yi Baiti",
+    "file": "msyi.ttf",
+    "style": "Regular",
+    "slug": "microsoft-yi-baiti"
+  },
+  {
+    "family": "Minecraft",
+    "file": "MinecraftTen-VGORe.ttf",
+    "style": "Ten",
+    "slug": "minecraft"
+  },
+  {
+    "family": "Minecraft Evenings",
+    "file": "MinecraftEvenings-lgvPd.ttf",
+    "style": "Regular",
+    "slug": "minecraft-evenings"
+  },
+  {
+    "family": "ModeSeven",
+    "file": "Modeseven-L3n5.ttf",
+    "style": "Regular",
+    "slug": "modeseven"
+  },
+  {
+    "family": "Mongolian Baiti",
+    "file": "monbaiti.ttf",
+    "style": "Regular",
+    "slug": "mongolian-baiti"
+  },
+  {
+    "family": "Monkeyoak",
+    "file": "Monkeyoak.otf",
+    "style": "Regular",
+    "slug": "monkeyoak"
+  },
+  {
+    "family": "Monoo Logo",
+    "file": "MonooLogo-rvK0x.ttf",
+    "style": "Regular",
+    "slug": "monoo-logo"
+  },
+  {
+    "family": "Montserrat Alternates",
+    "file": "MontserratAlternates-Regular.otf",
+    "style": "Regular",
+    "slug": "montserrat-alternates"
+  },
+  {
+    "family": "More Perfect DOS VGA",
+    "file": "MorePerfectDOSVGA.ttf",
+    "style": "Regular",
+    "slug": "more-perfect-dos-vga"
+  },
+  {
+    "family": "MV Boli",
+    "file": "mvboli.ttf",
+    "style": "Regular",
+    "slug": "mv-boli"
+  },
+  {
+    "family": "My Girl Is Retro",
+    "file": "MyGirlIsRetro-0Grz.ttf",
+    "style": "Regular",
+    "slug": "my-girl-is-retro"
+  },
+  {
+    "family": "Myanmar Text",
+    "file": "mmrtext.ttf",
+    "style": "Regular",
+    "slug": "myanmar-text"
+  },
+  {
+    "family": "Mystia",
+    "file": "Mystia-E0Or.otf",
+    "style": "Regular",
+    "slug": "mystia"
+  },
+  {
+    "family": "namco regular",
+    "file": "NamcoRegular-lgzd.ttf",
+    "style": "Regular",
+    "slug": "namco-regular"
+  },
+  {
+    "family": "NEOGEO System Font",
+    "file": "neogeo-system-font.ttf",
+    "style": "Regular",
+    "slug": "neogeo-system-font"
+  },
+  {
+    "family": "Nescafe Sans",
+    "file": "Nescafe Sans Italic.otf",
+    "style": "Italic",
+    "slug": "nescafe-sans"
+  },
+  {
+    "family": "Nespresso Lucas",
+    "file": "Nespresso Lucas.otf",
+    "style": "Regular",
+    "slug": "nespresso-lucas"
+  },
+  {
+    "family": "NEXON Football Gothic B",
+    "file": "NEXON Football Gothic B.ttf",
+    "style": "Regular",
+    "slug": "nexon-football-gothic-b"
+  },
+  {
+    "family": "NEXON Lv2 Gothic",
+    "file": "NEXON Lv2 Gothic.ttf",
+    "style": "Regular",
+    "slug": "nexon-lv2-gothic"
+  },
+  {
+    "family": "Nintendo DS BIOS",
+    "file": "Nintendo-DS-BIOS.ttf",
+    "style": "Regular",
+    "slug": "nintendo-ds-bios"
+  },
+  {
+    "family": "Nintendo Switch UI",
+    "file": "Nintendo_Switch_UI_Font.ttf",
+    "style": "Regular",
+    "slug": "nintendo-switch-ui"
+  },
+  {
+    "family": "Nirmala UI",
+    "file": "Nirmala.ttf",
+    "style": "Regular",
+    "slug": "nirmala-ui"
+  },
+  {
+    "family": "Nokia Cellphone FC",
+    "file": "nokiafc22.ttf",
+    "style": "Small",
+    "slug": "nokia-cellphone-fc"
+  },
+  {
+    "family": "Nokia S60v1 13px Bold",
+    "file": "nokia-s60v1-13px-bold.ttf",
+    "style": "Regular",
+    "slug": "nokia-s60v1-13px-bold"
+  },
+  {
+    "family": "Notepen",
+    "file": "Notepen.ttf",
+    "style": "Medium",
+    "slug": "notepen"
+  },
+  {
+    "family": "Noto Sans",
+    "file": "NotoSans-Regular.ttf",
+    "style": "Regular",
+    "slug": "noto-sans"
+  },
+  {
+    "family": "One Dot",
+    "file": "One Dot.otf",
+    "style": "Regular",
+    "slug": "one-dot"
+  },
+  {
+    "family": "Overheat",
+    "file": "Overheat.otf",
+    "style": "Regular",
+    "slug": "overheat"
+  },
+  {
+    "family": "PACK-MAN",
+    "file": "PackMan-DOJzm.ttf",
+    "style": "Regular",
+    "slug": "pack-man"
+  },
+  {
+    "family": "Palatino Linotype",
+    "file": "pala.ttf",
+    "style": "Regular",
+    "slug": "palatino-linotype"
+  },
+  {
+    "family": "parikesit",
+    "file": "Parikesit-0ZYR.ttf",
+    "style": "Regular",
+    "slug": "parikesit"
+  },
+  {
+    "family": "Pepsi Cyr-Lat",
+    "file": "Pepsi Cyr Latin.otf",
+    "style": "Regular",
+    "slug": "pepsi-cyr-lat"
+  },
+  {
+    "family": "Pepsi Light",
+    "file": "Pepsi Light.otf",
+    "style": "Regular",
+    "slug": "pepsi-light"
+  },
+  {
+    "family": "Permanent Marker",
+    "file": "PermanentMarker.ttf",
+    "style": "Regular",
+    "slug": "permanent-marker"
+  },
+  {
+    "family": "PIKESEL",
+    "file": "Pikesel-pgqda.otf",
+    "style": "Regular",
+    "slug": "pikesel"
+  },
+  {
+    "family": "Pipe Dream",
+    "file": "PipeDream-1Zwg.ttf",
+    "style": "Regular",
+    "slug": "pipe-dream"
+  },
+  {
+    "family": "Pixeboy",
+    "file": "Pixeboy.ttf",
+    "style": "Regular",
+    "slug": "pixeboy"
+  },
+  {
+    "family": "Pixel Gosub",
+    "file": "PixelGosub-ZaRz.ttf",
+    "style": "Regular",
+    "slug": "pixel-gosub"
+  },
+  {
+    "family": "Pixelbasel",
+    "file": "Pixelbasel-zr5Ll.ttf",
+    "style": "Medium",
+    "slug": "pixelbasel"
+  },
+  {
+    "family": "Pixellari",
+    "file": "Pixellari.ttf",
+    "style": "Medium",
+    "slug": "pixellari"
+  },
+  {
+    "family": "PixelWarden",
+    "file": "Pixelwarden-E4Yzj.ttf",
+    "style": "Medium",
+    "slug": "pixelwarden"
+  },
+  {
+    "family": "PIXELYA Trial",
+    "file": "PixelyatrialRegular-7BZlE.otf",
+    "style": "Regular",
+    "slug": "pixelya-trial"
+  },
+  {
+    "family": "PixPixls",
+    "file": "Pixpixls-BLPAd.ttf",
+    "style": "Regular",
+    "slug": "pixpixls"
+  },
+  {
+    "family": "Pizza Press",
+    "file": "Pizza Press Shadow.otf",
+    "style": "Shadow",
+    "slug": "pizza-press"
+  },
+  {
+    "family": "PKMN RBYGSC",
+    "file": "PKMN RBYGSC.ttf",
+    "style": "Regular",
+    "slug": "pkmn-rbygsc"
+  },
+  {
+    "family": "PlacardMTStd-Cond",
+    "file": "Placard MT Std Cond.otf",
+    "style": "",
+    "slug": "placardmtstd-cond"
+  },
+  {
+    "family": "PlayMeGames",
+    "file": "PlaymegamesReguler-2OOee.ttf",
+    "style": "Reguler",
+    "slug": "playmegames"
+  },
+  {
+    "family": "PLBenguiatFrisky OT",
+    "file": "PL Benguiat Frisky OT.otf",
+    "style": "Regular",
+    "slug": "plbenguiatfrisky-ot"
+  },
+  {
+    "family": "PMNCaeciliaSans Text",
+    "file": "PMNCaeciliaSansTextBdIt.TTF",
+    "style": "Bd Italic",
+    "slug": "pmncaeciliasans-text"
+  },
+  {
+    "family": "Polygon Party",
+    "file": "PolygonParty-3KXM.ttf",
+    "style": "Regular",
+    "slug": "polygon-party"
+  },
+  {
+    "family": "PP Handwriting",
+    "file": "PpHandwritingNormal-JpXm.ttf",
+    "style": "Normal",
+    "slug": "pp-handwriting"
+  },
+  {
+    "family": "Public Pixel",
+    "file": "PublicPixel.ttf",
+    "style": "Regular",
+    "slug": "public-pixel"
+  },
+  {
+    "family": "Purevil",
+    "file": "PurevilRegular-6RaD6.ttf",
+    "style": "Regular",
+    "slug": "purevil"
+  },
+  {
+    "family": "Pusia",
+    "file": "Pusia Bold.otf",
+    "style": "Bold",
+    "slug": "pusia"
+  },
+  {
+    "family": "Razor 1911 Retro",
+    "file": "Razor1911Retro-vnYZ.ttf",
+    "style": "Regular",
+    "slug": "razor-1911-retro"
+  },
+  {
+    "family": "Red Bull Siri Core",
+    "file": "Red Bull Siri Core.otf",
+    "style": "Book",
+    "slug": "red-bull-siri-core"
+  },
+  {
+    "family": "Red Bull Siri Web",
+    "file": "Red Bull Siri Web Black.otf",
+    "style": "Black",
+    "slug": "red-bull-siri-web"
+  },
+  {
+    "family": "Redline",
+    "file": "redline.ttf",
+    "style": "Regular",
+    "slug": "redline"
+  },
+  {
+    "family": "RETURN TO CASTLE",
+    "file": "ReturnToCastle-MZnx.ttf",
+    "style": "Regular",
+    "slug": "return-to-castle"
+  },
+  {
+    "family": "rishgular try",
+    "file": "RishgularTry-x30DO.ttf",
+    "style": "Regular",
+    "slug": "rishgular-try"
+  },
+  {
+    "family": "RO Spritendo",
+    "file": "RoSpritendoSemiboldBeta-vmVwZ.otf",
+    "style": "Spritendo-SemiBold-BETA",
+    "slug": "ro-spritendo"
+  },
+  {
+    "family": "Roblox Font 121",
+    "file": "RobloxFont121Regular-axoyE.ttf",
+    "style": "Regular",
+    "slug": "roblox-font-121"
+  },
+  {
+    "family": "Robotron",
+    "file": "Robotron-0Wvvo.ttf",
+    "style": "Regular",
+    "slug": "robotron"
+  },
+  {
+    "family": "Russo One",
+    "file": "RussoOne-Regular.ttf",
+    "style": "Regular",
+    "slug": "russo-one"
+  },
+  {
+    "family": "Sababin",
+    "file": "Sababin-2vrL8.otf",
+    "style": "Regular",
+    "slug": "sababin"
+  },
+  {
+    "family": "SC CC BackBeat",
+    "file": "SC CC BackBeat.otf",
+    "style": "Regular",
+    "slug": "sc-cc-backbeat"
+  },
+  {
+    "family": "SC Secret Origins BB",
+    "file": "SC Secret Origins BB.otf",
+    "style": "Bold",
+    "slug": "sc-secret-origins-bb"
+  },
+  {
+    "family": "SC UD Kakugo Large B",
+    "file": "SC UD Kakugo Large B.otf",
+    "style": "Bold",
+    "slug": "sc-ud-kakugo-large-b"
+  },
+  {
+    "family": "Schweppes Title Heavy",
+    "file": "Schweppes Title Heavy.otf",
+    "style": "Heavy",
+    "slug": "schweppes-title-heavy"
+  },
+  {
+    "family": "SCR-N Five",
+    "file": "SCR-NFiv-Reg.otf",
+    "style": "Regular",
+    "slug": "scr-n-five"
+  },
+  {
+    "family": "SCR-N Seven",
+    "file": "SCR-NSev-Reg.otf",
+    "style": "Regular",
+    "slug": "scr-n-seven"
+  },
+  {
+    "family": "SDGlitchRobotDemo",
+    "file": "Sdglitchrobotdemo-GOPdO.ttf",
+    "style": "Regular",
+    "slug": "sdglitchrobotdemo"
+  },
+  {
+    "family": "Segoe Print",
+    "file": "segoepr.ttf",
+    "style": "Regular",
+    "slug": "segoe-print"
+  },
+  {
+    "family": "Segoe Script",
+    "file": "segoesc.ttf",
+    "style": "Regular",
+    "slug": "segoe-script"
+  },
+  {
+    "family": "Segoe UI",
+    "file": "segoeui.ttf",
+    "style": "Regular",
+    "slug": "segoe-ui"
+  },
+  {
+    "family": "Seraphon",
+    "file": "SeraphonRegular-9MKnK.ttf",
+    "style": "Regular",
+    "slug": "seraphon"
+  },
+  {
+    "family": "Severance the Sequel",
+    "file": "Severance the Sequel.otf",
+    "style": "Regular",
+    "slug": "severance-the-sequel"
+  },
+  {
+    "family": "SF Atarian System",
+    "file": "SfAtarianSystem-d5LR.ttf",
+    "style": "Regular",
+    "slug": "sf-atarian-system"
+  },
+  {
+    "family": "SF Atarian System Extended",
+    "file": "SfAtarianSystemExtended-7jDV.ttf",
+    "style": "Regular",
+    "slug": "sf-atarian-system-extended"
+  },
+  {
+    "family": "SF Intellivised",
+    "file": "SF Intellivised.ttf",
+    "style": "Regular",
+    "slug": "sf-intellivised"
+  },
+  {
+    "family": "Sharpeye Type",
+    "file": "sharpeye.otf",
+    "style": "Regular",
+    "slug": "sharpeye-type"
+  },
+  {
+    "family": "SimSun-ExtB",
+    "file": "simsunb.ttf",
+    "style": "Regular",
+    "slug": "simsun-extb"
+  },
+  {
+    "family": "Sinkin Sans",
+    "file": "SinkinSans-700Bold.otf",
+    "style": "700 Bold",
+    "slug": "sinkin-sans"
+  },
+  {
+    "family": "Skyrim_Daedra",
+    "file": "SkyrimDaedra-VeYz.ttf",
+    "style": "Medium",
+    "slug": "skyrim-daedra"
+  },
+  {
+    "family": "Solomon's Key True Type",
+    "file": "SolomonsKeyTrueType-EXOW.ttf",
+    "style": "Regular",
+    "slug": "solomons-key-true-type"
+  },
+  {
+    "family": "Solomon's Key True Type Smoose",
+    "file": "SolomonsKeyTrueTypeSmoose-3R8p.ttf",
+    "style": "Regular",
+    "slug": "solomons-key-true-type-smoose"
+  },
+  {
+    "family": "Sonic Advance 2",
+    "file": "SonicAdvance2Regular-2Dg3.ttf",
+    "style": "Regular",
+    "slug": "sonic-advance-2"
+  },
+  {
+    "family": "SoulCalibuR",
+    "file": "Soulcalibur-aPAx.ttf",
+    "style": "Regular",
+    "slug": "soulcalibur"
+  },
+  {
+    "family": "Space Runner",
+    "file": "spacerunner.ttf",
+    "style": "Regular",
+    "slug": "space-runner"
+  },
+  {
+    "family": "SST",
+    "file": "SSTLight.TTF",
+    "style": "Light",
+    "slug": "sst"
+  },
+  {
+    "family": "SubVarioOTW03-CondFat",
+    "file": "SubVario OT W03 Cond Fat.otf",
+    "style": "Regular",
+    "slug": "subvariootw03-condfat"
+  },
+  {
+    "family": "Subway",
+    "file": "Subway.otf",
+    "style": "Regular",
+    "slug": "subway"
+  },
+  {
+    "family": "Super Mario Bros.",
+    "file": "SuperMarioBros-ov7d.ttf",
+    "style": "Regular",
+    "slug": "super-mario-bros"
+  },
+  {
+    "family": "Supercell Headline",
+    "file": "Supercell Headline Bold.otf",
+    "style": "Bold",
+    "slug": "supercell-headline"
+  },
+  {
+    "family": "Supercell Magic",
+    "file": "Supercell Magic.otf",
+    "style": "Regular",
+    "slug": "supercell-magic"
+  },
+  {
+    "family": "Supercell Text Android App",
+    "file": "Supercell Text Android App Bold.ttf",
+    "style": "Bold",
+    "slug": "supercell-text-android-app"
+  },
+  {
+    "family": "Supply Center",
+    "file": "SupplyCenter-0W9nz.ttf",
+    "style": "Regular",
+    "slug": "supply-center"
+  },
+  {
+    "family": "Sweetie",
+    "file": "Sweetie.otf",
+    "style": "Regular",
+    "slug": "sweetie"
+  },
+  {
+    "family": "Sylfaen",
+    "file": "sylfaen.ttf",
+    "style": "Regular",
+    "slug": "sylfaen"
+  },
+  {
+    "family": "syndicate",
+    "file": "Syndicate-Yq64.ttf",
+    "style": "Regular",
+    "slug": "syndicate"
+  },
+  {
+    "family": "Tahoma",
+    "file": "tahoma.ttf",
+    "style": "Regular",
+    "slug": "tahoma"
+  },
+  {
+    "family": "Tangtingtung",
+    "file": "Tangtingtung-9MqvB.otf",
+    "style": "Regular",
+    "slug": "tangtingtung"
+  },
+  {
+    "family": "techbombs demo",
+    "file": "TechbombsDemo-e9g3n.ttf",
+    "style": "techbombs demo",
+    "slug": "techbombs-demo"
+  },
+  {
+    "family": "Terminator Real NFI",
+    "file": "terminator real nfi.ttf",
+    "style": "Regular",
+    "slug": "terminator-real-nfi"
+  },
+  {
+    "family": "ThaiBev Sans",
+    "file": "ThaiBev Sans.otf",
+    "style": "Regular",
+    "slug": "thaibev-sans"
+  },
+  {
+    "family": "That Sounds Great",
+    "file": "ThatSoundsGreat-yYLE3.ttf",
+    "style": "Regular",
+    "slug": "that-sounds-great"
+  },
+  {
+    "family": "Times New Roman",
+    "file": "times.ttf",
+    "style": "Regular",
+    "slug": "times-new-roman"
+  },
+  {
+    "family": "Trebuchet MS",
+    "file": "trebuc.ttf",
+    "style": "Regular",
+    "slug": "trebuchet-ms"
+  },
+  {
+    "family": "Triforce",
+    "file": "Triforce-y07d.ttf",
+    "style": "Triforce",
+    "slug": "triforce"
+  },
+  {
+    "family": "TRS-80 CoCoNut",
+    "file": "Trs80Coconut-wX5x.ttf",
+    "style": "Medium",
+    "slug": "trs-80-coconut"
+  },
+  {
+    "family": "TT-Shin Go",
+    "file": "TT Shin Go B.ttf",
+    "style": "B",
+    "slug": "tt-shin-go"
+  },
+  {
+    "family": "Urban Cile",
+    "file": "UrbanCile-yY5OM.ttf",
+    "style": "Regular",
+    "slug": "urban-cile"
+  },
+  {
+    "family": "V Energy BetaFour",
+    "file": "V Energy Beta Four.otf",
+    "style": "Regular",
+    "slug": "v-energy-betafour"
+  },
+  {
+    "family": "Verdana",
+    "file": "verdana.ttf",
+    "style": "Regular",
+    "slug": "verdana"
+  },
+  {
+    "family": "Veuve Clicquot Sans",
+    "file": "Veuve Clicquot Sans.otf",
+    "style": "Regular",
+    "slug": "veuve-clicquot-sans"
+  },
+  {
+    "family": "Veuve Clicquot Title",
+    "file": "Veuve Clicquot Title.otf",
+    "style": "Book",
+    "slug": "veuve-clicquot-title"
+  },
+  {
+    "family": "Virtual Boy",
+    "file": "Virtual Boy.ttf",
+    "style": "Regular",
+    "slug": "virtual-boy"
+  },
+  {
+    "family": "Vores Skriftsnit",
+    "file": "Vores Skriftsnit Two.otf",
+    "style": "2",
+    "slug": "vores-skriftsnit"
+  },
+  {
+    "family": "Wisdom Script",
+    "file": "Wisdom Script AJ.otf",
+    "style": "Regular",
+    "slug": "wisdom-script"
+  },
+  {
+    "family": "Wow Dino",
+    "file": "WowDino-G33vP.ttf",
+    "style": "Regular",
+    "slug": "wow-dino"
+  },
+  {
+    "family": "XBold",
+    "file": "XBold.ttf",
+    "style": "Regular",
+    "slug": "xbold"
+  },
+  {
+    "family": "XBox",
+    "file": "XBOX_RG.TTF",
+    "style": "Regular",
+    "slug": "xbox"
+  },
+  {
+    "family": "XBox Title",
+    "file": "XBOX_T.TTF",
+    "style": "Regular",
+    "slug": "xbox-title"
+  },
+  {
+    "family": "Zarbville NBP",
+    "file": "ZarbvilleNbpRegular-MJOJ.ttf",
+    "style": "Regular",
+    "slug": "zarbville-nbp"
+  }
+]

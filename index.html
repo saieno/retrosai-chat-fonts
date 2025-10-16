@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RetroSaieno Stream Font Preview Gallery</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="container">
+    <h1>RetroSaieno Stream Preview Gallery</h1>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search families…" aria-label="Search families" />
+      <select id="sort">
+        <option value="name-asc">Name (A→Z)</option>
+        <option value="name-desc">Name (Z→A)</option>
+      </select>
+      <span id="count" aria-live="polite"></span>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="grid" class="grid" aria-live="polite" aria-busy="true">
+      <!-- Cards inserted by app.js -->
+    </div>
+  </main>
+
+  <footer class="container footer">
+    <p>Previews generated locally; one image per base family. No font files are hosted.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
