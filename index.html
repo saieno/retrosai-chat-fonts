@@ -9,14 +9,6 @@
 <body>
   <header class="container">
     <h1>RetroSaieno Stream Font Preview Gallery</h1>
-    <div class="controls">
-      <input id="search" type="search" placeholder="Search families…" aria-label="Search families" />
-      <select id="sort">
-        <option value="name-asc">Name (A→Z)</option>
-        <option value="name-desc">Name (Z→A)</option>
-      </select>
-      <span id="count" aria-live="polite"></span>
-    </div>
   </header>
 
   <main class="container">
@@ -28,6 +20,8 @@
   <footer class="container footer">
     <p>Previews generated locally; one image per base family. No font files are hosted.</p>
   </footer>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
   <script src="app.js"></script>
 </body>

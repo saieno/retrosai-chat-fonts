@@ -1,8 +1,6 @@
 let fonts = [];
 const grid = document.getElementById('grid');
-const search = document.getElementById('search');
-const sortSel = document.getElementById('sort');
-const countEl = document.getElementById('count');
+const toast = document.getElementById('toast');
 
 async function load() {
   try {
@@ -14,17 +12,16 @@ async function load() {
   render();
 }
 
+function showToast(msg) {
+  toast.textContent = msg;
+  toast.classList.add('show');
+  clearTimeout(showToast._t);
+  showToast._t = setTimeout(() => toast.classList.remove('show'), 1200);
+}
+
 function render() {
   grid.setAttribute('aria-busy', 'true');
-  let query = (search.value || '').toLowerCase();
-  let list = fonts.filter(f => f.family.toLowerCase().includes(query));
-
-  const sortVal = sortSel.value;
-  list.sort((a,b) => {
-    if (sortVal === 'name-asc') return a.family.localeCompare(b.family);
-    if (sortVal === 'name-desc') return b.family.localeCompare(a.family);
-    return 0;
-  });
+  const list = [...fonts].sort((a,b) => a.family.localeCompare(b.family)); // keep A→Z silently
 
   grid.innerHTML = '';
   for (const f of list) {
@@ -39,23 +36,46 @@ function render() {
 
     const meta = document.createElement('div');
     meta.className = 'meta';
+
+    const info = document.createElement('div');
+    info.className = 'info';
     const name = document.createElement('div');
     name.className = 'name';
     name.textContent = f.family;
     const file = document.createElement('div');
     file.className = 'file';
     file.textContent = f.file || '';
-    meta.appendChild(name);
-    meta.appendChild(file);
+
+    info.appendChild(name);
+    info.appendChild(file);
+
+    const btn = document.createElement('button');
+    btn.className = 'copybtn';
+    btn.textContent = 'Copy Name to Clipboard';
+    btn.addEventListener('click', async () => {
+      try {
+        await navigator.clipboard.writeText(f.family);
+        showToast(`Copied “${f.family}”`);
+      } catch (e) {
+        // Fallback: select & copy via execCommand
+        const ta = document.createElement('textarea');
+        ta.value = f.family;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        showToast(`Copied “${f.family}”`);
+      }
+    });
+
+    meta.appendChild(info);
+    meta.appendChild(btn);
 
     card.appendChild(img);
     card.appendChild(meta);
     grid.appendChild(card);
   }
-  countEl.textContent = `${list.length} ${list.length === 1 ? 'family' : 'families'}`;
   grid.removeAttribute('aria-busy');
 }
 
-search.addEventListener('input', render);
-sortSel.addEventListener('change', render);
 load();
